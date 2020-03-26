@@ -8,6 +8,7 @@ def countdown(x)
   if x == 0
     puts "HAPPY NEW YEAR!"
   end
+  HAPPY NEW YEAR!
 end
 
 def countdown_with_sleep(y)
