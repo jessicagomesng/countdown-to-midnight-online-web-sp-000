@@ -20,5 +20,3 @@ def countdown_with_sleep(y)
     puts "HAPPY NEW YEAR!"
   end
 end
-
-countdown_with_sleep(10)
